@@ -1,0 +1,19 @@
+.header {
+    font-family: Verdana;
+    color: white;
+}
+
+#title {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h4 {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+* {
+    background-color: black;
+    text-align: center;
+}
